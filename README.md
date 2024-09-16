@@ -9,3 +9,6 @@ Checkout my dashboard to know about the insights & patterns.
 
 ![call  1](https://github.com/user-attachments/assets/7fe88ce7-f726-4677-9450-abb41c6d72a4)
 
+
+![call 2](https://github.com/user-attachments/assets/667c41e4-7e3c-4549-a481-d0dee628f118)
+
