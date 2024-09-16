@@ -6,3 +6,6 @@ This is the 1st BI task from the internship, objective was to analyse the trends
 My first approach was to check the data & perform data cleaning for better results & started my analysis on Power BI Desktop.
 
 Checkout my dashboard to know about the insights & patterns.
+
+![call  1](https://github.com/user-attachments/assets/7fe88ce7-f726-4677-9450-abb41c6d72a4)
+
